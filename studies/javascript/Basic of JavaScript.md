@@ -10,7 +10,7 @@ Let's learn first its data types there are primitive datatypes.
 - Undefined
 - Symbol
 
-1. In string any text between same symbols are string like - 'hello'  ,  "hello " , `hello there , this is dheerj ` like that even can use backtick.
+1. In string any text between same symbols are string like - 'hello'  ,  "hello " , `hello there , this is dheeraj ` like that even can use backtick.
 2. In number there are integers and floating number negative , zero and positive - -2 ,0 ,1 ,-2.3, 0.0, 2,3 like that.
 3. In Boolean it's simply true or false.
 4. In undefined if we don't assign value to variable then it's set to be undefined, In function's if it does not return anything then its return undefined.
